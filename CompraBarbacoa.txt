@@ -2,3 +2,6 @@ Carne
 Arroz
 Cerveza
 Costilla
+Vino
+Soda
+Cebolla
